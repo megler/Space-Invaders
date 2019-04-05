@@ -12,6 +12,14 @@ See what I could create using just CSS and JS without game-based addons such as 
 - HTML5 Canvas
 - The old games are still the best!
 
+## What Can Be Improved
+
+- Addition of multiple levels
+- Better styling (the background and sprites are from the original game)
+- Ability to move and fire at the same time
+- Add the boulders over the player similar to the original game
+- Save high score
+
 ## Link
 
 - https://megler.github.io/Space-Invaders/
